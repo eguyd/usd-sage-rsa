@@ -1,2 +1,2 @@
 # usd-sage-rsa
-Appied Crypto | University of San Diego 
+Applied Crypto | University of San Diego 
